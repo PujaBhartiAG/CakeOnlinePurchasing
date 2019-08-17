@@ -1,0 +1,16 @@
+SMAP
+viewcustomer_jsp.java
+JSP
+*S JSP
+*F
++ 0 viewcustomer.jsp
+viewcustomer.jsp
+*L
+5,26:45
+31,13:72
+43,2:85
+45,7:87,3
+52,4:108
+55,7:112
+61,7:119
+*E
